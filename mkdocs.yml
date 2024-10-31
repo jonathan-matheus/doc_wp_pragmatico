@@ -1,0 +1,5 @@
+site_name: Docs Wp Pragmatico
+theme: readthedocs
+nav:
+  - Inicio: index.md
+  - Cores: color.md

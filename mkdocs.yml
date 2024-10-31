@@ -3,3 +3,4 @@ theme: readthedocs
 nav:
   - Inicio: index.md
   - Cores: color.md
+  - Configurações: themeSettings.md

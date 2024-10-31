@@ -3,6 +3,8 @@
 Nesta seção da documentação, você encontrará informações sobre como ajustar as
 cores do tema.
 
+---
+
 ## Cor de Fundo
 
 Para alterar a cor de fundo padrão do tema, acesse o painel administrativo do
